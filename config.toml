@@ -1,5 +1,5 @@
 # TODO: update
-baseURL = "https://example.com"
+baseURL = "https://abailoni.github.io/introduction-to-UM-course"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -14,6 +14,8 @@ title = "Introduction to Unified Mindfulness"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
+
+#canonifyURLs = true
 
 [markup.goldmark.renderer]
 unsafe= true
