@@ -13,9 +13,13 @@ Think about it: **You exercise for a specific part of your day to stay fit for t
 ---
 #### But here's the exciting part: 
 {.center}
+
 Our goal is to **help you practice mindfulness throughout your entire day**, not just once.
 
+
 And **here’s something you might not realize**: While mindfulness strengthens your attention like exercise strengthens muscles, it also optimizes every situation in your life. **Every moment of your day can be qualitatively improved through mindfulness.**
+
+![Meditation](/images/mindfulness-all-day.jpg)
 
 ---
 #### So, how do you achieve this?

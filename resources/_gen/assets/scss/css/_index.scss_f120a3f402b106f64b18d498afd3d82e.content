@@ -42,7 +42,7 @@ body {
 /* ===== Cover =======*/
 #blog-logo {
   display: block;
-  max-height: 400px;
+  max-height: 150px;
   width: auto;
   margin: 0 auto;
   line-height: 0; }

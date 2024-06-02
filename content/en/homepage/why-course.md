@@ -6,7 +6,7 @@ weight: 1
 header_menu: true
 ---
 
-![Meditation](/images/medit-abstract.jpg) 
+![Meditation](/images/where-in-meditation.jpg) 
 
 **Maybe you're brand new to meditation** and you're not sure how to start or what to do, so  you'd like clear, "how to" instructions on how to practice.
 

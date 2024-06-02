@@ -5,6 +5,7 @@ baseURL = "https://example.com"
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
 defaultContentLanguage = "en"
+publishDir = "docs"
 
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll"
