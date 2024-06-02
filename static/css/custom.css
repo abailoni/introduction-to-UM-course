@@ -22,3 +22,20 @@ figure.floatleft {
 	height: auto;
 	float: left;
 }
+
+
+#blog-logo {
+  max-height: 150px;
+}
+
+.blog-title {
+  margin: 10px 10px 10px 10px;
+  font-size: 4rem;
+  letter-spacing: -1px;
+  text-shadow: var(--cover-title-text-shadow);
+}
+
+.post-title {
+  margin: 0 0 1em 0;
+  text-align: center;
+}

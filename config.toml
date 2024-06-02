@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 publishDir = "docs"
 
 # The name of this wonderful theme ;-).
-theme = "hugo-scroll"
+theme = "hugo-scroll2"
 
 # The browser tab name
 title = "Introduction to Unified Mindfulness"

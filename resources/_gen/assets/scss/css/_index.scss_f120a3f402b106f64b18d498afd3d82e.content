@@ -42,7 +42,7 @@ body {
 /* ===== Cover =======*/
 #blog-logo {
   display: block;
-  max-height: 150px;
+  max-height: 100px;
   width: auto;
   margin: 0 auto;
   line-height: 0; }
@@ -80,8 +80,8 @@ body {
     border-radius: 25px;
     width: fit-content; }
   #site-head .blog-title, #site-head.withCenteredImage .blog-title {
-    margin: 10px 10px 10px 10px;
-    font-size: 4rem;
+    margin: 10px 0 10px 0;
+    font-size: 5rem;
     letter-spacing: -1px;
     text-shadow: var(--cover-title-text-shadow); }
   #site-head .blog-description, #site-head.withCenteredImage .blog-description {
@@ -176,8 +176,7 @@ a.fn-item {
 
 /* ========= Content ==========*/
 .post-title {
-  margin: 0 0 1em 0;
-  text-align: center; }
+  margin: 0; }
   .post-title a {
     text-decoration: none; }
 
