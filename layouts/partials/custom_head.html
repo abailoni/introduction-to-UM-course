@@ -1,0 +1,89 @@
+<!-- A partial to be overwritten by the user.
+     Its content will appear before the closing </head>-tag -->
+
+
+<!-- Custom CSS via inline styles
+     You may use this template to add custom CSS to your site like so: -->
+
+<style>
+:root {
+    /* see variables.scss for more variables*/
+
+    /*!* CSS HEX *!*/
+    /*--aquamarine: #aafac8ff;*/
+    /*--midnight-green: #004346ff;*/
+    /*--flame: #ec4e20ff;*/
+    /*--bistre: #472c1bff;*/
+    /*--forest-green: #208532ff;*/
+
+    /* === Cover / Landing area === */
+    --cover-text-color: #414141;
+    /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
+    --highlight: #ff9254;
+    --highlight-contrast: var(--cover-text-color);
+    /*iverse colors used for :hover */
+    --highlight-inverse: var(--cover-text-color);
+    --highlight-inverse-contrast: white;
+
+    /* visual guard around title and description, when the feature is enabled */
+    --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
+    --cover-title-text-shadow: white 0px 0px 7px;
+
+
+    /* === sticky top/left navigation menus === */
+    --sticky-menu-text-color: #ec6e20;
+
+
+    /* === Alternating content (post) sections  === */
+    /* Light section - text color */
+    --section-light-text-color: #3b3b3b;
+    /* Light section - background color */
+    --section-light-bg-color: #ffffff;
+
+    /* Dark section - text color */
+    --section-dark-text-color: #000000;
+    /*--section-dark-text-color: var(--section-light-bg-color);*/
+    /* Dark section - background color */
+    --section-dark-bg-color: #ff883a;
+    /*--section-dark-bg-color: #005670;*/
+
+    /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
+    --section-uni-quote: grey;
+    /* Light&Dark section `code` a bit darker than 'Light section - background color' */
+    --section-uni-code-bg-color: #e0ded7;
+
+    /* === Single pages=== */
+    --single-page-text-color: var(--section-light-text-color);
+    --single-page-bg-color: var(--section-light-bg-color);
+
+    /* === Footer === */
+    --footer-color-background: #472c1bff;
+    --footer-color: #bbc7cc;
+
+    /* === Lists === */
+    /* define list element for unnumbered lists, leave empty for default list element */
+    --ul-li-icon: ;
+}
+</style>
+
+
+<!-- Custom CSS via "custom.css"-file
+     If you would rather place your custom CSS into
+     a separate file, create a "custom.css" in your
+     local "static/css"-directory. Then add a <link>-tag
+     referencing your "custom.css" like so: -->
+
+ <link rel="stylesheet" href='{{ "css/custom.css" | absURL }}'>
+
+<!-- Custom CSS: Color Codes
+     You may checkout https://htmlcolorcodes.com/ to get those
+     weird color codes (like "#22343A") ;-). -->
+
+<!-- Custom link-tags for different icons
+     Generated via https://favicon.io/favicon-generator/ -->
+
+{{ with resources.Get "images/apple-touch-icon.png" }}<link rel="apple-touch-icon" sizes="180x180" href="{{ .RelPermalink }}" />{{ end }}
+{{ with resources.Get "images/favicon.svg" }}<link rel="icon" type="image/svg+xml" href="{{ .RelPermalink }}" />{{ end }}
+{{ range seq 9 4 }}{{ $size := pow 2 . }}{{ $file := replace "images/favicon-##x##.png" "##" $size }}{{ with resources.Get $file }}
+<link rel="icon" type="{{ .MediaType.Type }}" sizes="{{- $size -}}x{{- $size -}}" href="{{ .RelPermalink }}" />{{ end }}{{ end }}
+
