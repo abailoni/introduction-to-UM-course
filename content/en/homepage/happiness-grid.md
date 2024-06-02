@@ -15,5 +15,5 @@ In the course, you will discover the _Happiness Grid_, which lists the types and
 
 
 ![Happiness-grid](/images/happiness-grid.jpg)
-_&copy; 2024 Unified Mindfulness LLC_
+_&copy; 2024 Unified Mindfulness LLC & Shinzen Young_
 {.copyright_UM}
