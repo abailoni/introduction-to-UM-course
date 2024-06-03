@@ -1,8 +1,9 @@
 ---
-title: "Sign up for the course"
+title: "Sign Up for the Course"
 weight: 99
 header_menu: true
-header_menu_title: "Sign up"
+header_menu_title: "Sign Up"
+navigation_menu_title: "Sign Up"
 ---
 
 
@@ -17,7 +18,7 @@ so you'll be able to re-watch each session any time you like
 
 - When you sign up, let us know if you won't be able to attend some of the classes.
 
-- **TODO: Add a form to sign up for the course**
+- **TODO: Add form to sign up**
 
 ![Sign-up](/images/sign-up.jpg)
 

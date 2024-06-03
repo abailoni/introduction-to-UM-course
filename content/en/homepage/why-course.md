@@ -1,12 +1,23 @@
 ---
-title: "Where are you in your meditation practice right now?"
-header_menu_title: "Why this course?"
-navigation_menu_title: "Why this course?"
+title: "Join A Live, Free, Virtual, 8-Weeks Class to Start or Deepen Your Meditation Practice"
+header_menu_title: "Why This Course?"
+navigation_menu_title: "Why This Course?"
 weight: 1
 header_menu: true
 ---
 
+--- 
+_In the course you'll learn techniques to systematically optimize your existing contemplative practices (if you have any) and strengthen your focus so you can be more present in your life, your work, and with the people close to you._
+{.center}
+
+--- 
+
 ![Meditation](/images/where-in-meditation.jpg) 
+
+&nbsp;
+
+## Where are you in your meditation practice right now?
+{.center}
 
 **Maybe you're brand new to meditation** and you're not sure how to start or what to do, so  you'd like clear, "how to" instructions on how to practice.
 
@@ -16,7 +27,8 @@ Maybe you have an established practice, but **you feel like you've plateaued** o
 
 **Maybe you're highly experienced in other contemplative practices** and you'd like to know how the Uniﬁed Mindfulness framework can enhance your existing practice with an interactive, algorithmic system that gives you a broad range of new options to explore.
 
-In any case, the Introduction to Unified Mindfulness 8-week training is designed to meet you where you are, **whether you're brand new to meditation or you have years of experience** in other contemplative practices.
+_In any case, the Introduction to Unified Mindfulness 8-week training is designed to meet you where you are, **whether you're brand new to meditation or you have years of experience** in other contemplative practices._
+
 
 [//]: # (### &darr;)
 
@@ -28,12 +40,9 @@ In any case, the Introduction to Unified Mindfulness 8-week training is designed
 [//]: # (---)
 
 [//]: # (#### It doesn't matter if you're brand new to meditation or if you have years of experience in other contemplative practices:)
-{.center}
+[//]: # ({.center})
 
 [//]: # ([//]: # &#40;{.center}&#41;)
 
 
---- 
-##### In the course you'll learn techniques to systematically optimize your existing contemplative practices (if you have any) and strengthen your focus so you can be more present in your life, your work, and with the people close to you.
-{.center}
---- 
+

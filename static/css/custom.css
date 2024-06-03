@@ -41,5 +41,12 @@ figure.floatleft {
 }
 
 #site-head.withCenteredImage {
-  background-image: url('{{- $img.RelPermalink -}}'); /* Default for larger screens */
+  background-image: url("/introduction-to-UM-course/images/cover-image.jpg"); /* Default for larger screens */
+}
+
+ol, ul {
+  /*padding: 10px;*/
+  /*width: 25%;*/
+  /*Centers the list*/
+  margin: 0 0 0 -2.5em;
 }
