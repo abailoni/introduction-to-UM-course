@@ -14,7 +14,7 @@ title = "Introduction to Unified Mindfulness"
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
 
-canonifyURLs = true
+canonifyURLs = false
 
 [markup.goldmark.renderer]
 unsafe= true

@@ -39,3 +39,7 @@ figure.floatleft {
   margin: 0 0 1em 0;
   text-align: center;
 }
+
+#site-head.withCenteredImage {
+  background-image: url('{{- $img.RelPermalink -}}'); /* Default for larger screens */
+}
