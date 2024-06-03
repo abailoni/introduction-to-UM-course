@@ -11,14 +11,12 @@ navigation_menu_title: "Sign Up"
 but may run a little longer depending on the amount of Q&A 
 as these classes are highly interactive.
 
-- **Classes will be held on Zoom and will also be recorded** and sent to you 
+- **Classes will be held on Zoom and will be recorded** and sent to you 
 so you'll be able to re-watch each session any time you like
 
 - Because this coaching is LIVE, **enrollment will be limited to a maximum number of participants**, so that you will get a chance to get personal feedback.
 
-- When you sign up, let us know if you won't be able to attend some of the classes.
-
-- **TODO: Add form to sign up**
+- When you sign up, **let us know if you won't be able to attend some of the classes**.
 
 ![Sign-up](/images/sign-up.jpg)
 

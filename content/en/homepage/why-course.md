@@ -6,6 +6,9 @@ weight: 1
 header_menu: true
 ---
 
+Starting on Monday, July 22nd, 2024, 6PM CET
+{.center}
+
 --- 
 _In the course you'll learn techniques to systematically optimize your existing contemplative practices (if you have any) and strengthen your focus so you can be more present in your life, your work, and with the people close to you._
 {.center}
