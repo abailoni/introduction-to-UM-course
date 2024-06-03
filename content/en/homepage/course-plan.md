@@ -1,5 +1,5 @@
 ---
-title: "Detailed Plan for the 8-Week Course"
+title: "Plan for the 8-Week Course"
 weight: 4
 header_menu_title: "Course Plan"
 navigation_menu_title: "Course Plan"
