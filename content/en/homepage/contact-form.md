@@ -18,7 +18,7 @@ so you'll be able to re-watch each session any time you like
 
 - When you sign up, **let us know if you won't be able to attend some of the classes**.
 
-![Sign-up](/images/sign-up.jpg)
+[//]: # (![Sign-up]&#40;/images/sign-up.jpg&#41;)
 
 [//]: # (- **Your instructor**: Alberto Bailoni &#40;Certified Unified Mindfulness Coach by the time the course will start&#41;)
 

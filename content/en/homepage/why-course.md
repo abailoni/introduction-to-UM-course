@@ -15,12 +15,14 @@ _In the course you'll learn techniques to systematically optimize your existing 
 
 --- 
 
-![Meditation](/images/where-in-meditation.jpg) 
+[//]: # (![Meditation]&#40;/images/where-in-meditation.jpg&#41; )
 
 &nbsp;
 
-## Where are you in your meditation practice right now?
+### Where are you in your meditation practice right now?
 {.center}
+
+&nbsp;
 
 **Maybe you're brand new to meditation** and you're not sure how to start or what to do, so  you'd like clear, "how to" instructions on how to practice.
 
