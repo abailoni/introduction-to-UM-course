@@ -43,6 +43,10 @@ figure.floatleft {
   text-shadow: var(--cover-title-text-shadow);
 }
 
+.orange {
+  color: #ec6e20;
+}
+
 .post-title {
   margin: 0 0 1em 0;
   text-align: center;

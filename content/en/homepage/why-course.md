@@ -6,11 +6,11 @@ weight: 1
 header_menu: true
 ---
 
-Starting on Monday, July 22nd, 2024, 6PM CET
-{.center}
+**Starting on Monday, July 22nd, 2024, 6PM CET**
+{.center .orange}
 
 --- 
-The goal of this course is to provide you with practical tools to find new ways to practice mindfulness during your day, not just once, and systematically optimize your existing contemplative practices, if you have any.
+The **_goal of this course_** is to provide you with practical tools to **find new ways to practice mindfulness during your day**, not just once, and **systematically optimize your existing contemplative practices**, if you have any.
 {.center}
 
 --- 
@@ -32,7 +32,7 @@ Maybe you have an established practice, but **you feel like you've plateaued** o
 
 **Maybe you're highly experienced in other contemplative practices** and you'd like to know how the Uniﬁed Mindfulness framework can enhance your existing practice with an interactive, algorithmic system that gives you a broad range of new options to explore.
 
-_In any case, the Introduction to Unified Mindfulness 8-week training is designed to meet you where you are, **whether you're brand new to meditation or you have years of experience** in other contemplative practices._
+The Introduction to Unified Mindfulness 8-week training is designed to meet you where you are, **whether you're brand new to meditation or you have years of experience** in other contemplative practices.
 
 
 [//]: # (### &darr;)

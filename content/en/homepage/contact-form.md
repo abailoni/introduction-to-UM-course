@@ -1,5 +1,5 @@
 ---
-title: "Sign Up for the Course"
+title: "Sign Up For The Free Course"
 weight: 99
 header_menu: true
 header_menu_title: "Sign Up"
