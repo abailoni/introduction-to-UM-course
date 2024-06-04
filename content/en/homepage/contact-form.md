@@ -21,12 +21,17 @@ so you'll be able to re-watch each session any time you like
 <div class="form-container">
 <h2>Register Your Interest</h2>
 
-<script src="https://www.google.com/recaptcha/api.js"></script>
- <script>
-   function onSubmit(token) {
-     document.getElementById("registration-form").submit();
-   }
- </script>
+[//]: # (<script src="https://www.google.com/recaptcha/api.js"></script>)
+
+[//]: # ( <script>)
+
+[//]: # (   function onSubmit&#40;token&#41; {)
+
+[//]: # (     document.getElementById&#40;"registration-form"&#41;.submit&#40;&#41;;)
+
+[//]: # (   })
+
+[//]: # ( </script>)
 
 <form action="https://formspree.io/f/mqkrvygz" method="POST" id="registration-form">
 <div class="form-group">
@@ -52,11 +57,17 @@ so you'll be able to re-watch each session any time you like
 </div>
 
 <div class="form-group">
-<button type="submit" 
-        class="g-recaptcha" 
-        data-sitekey="6Lclv_ApAAAAAAMFI51Pn9lsJ7rnmdR1viTtIxW6" 
-        data-callback='onSubmit' 
-        data-action='submit'>Submit</button>
+<input type="submit" value="Submit">
+
+[//]: # (<button type="submit" )
+
+[//]: # (        class="g-recaptcha" )
+
+[//]: # (        data-sitekey="6Lclv_ApAAAAAAMFI51Pn9lsJ7rnmdR1viTtIxW6" )
+
+[//]: # (        data-callback='onSubmit' )
+
+[//]: # (        data-action='submit'>Submit</button>)
 </div>
 </form>
 </div>
