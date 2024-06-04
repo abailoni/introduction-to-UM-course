@@ -41,29 +41,69 @@ so you'll be able to re-watch each session any time you like
 <input type="text" id="extra_details" name="extra_details" placeholder="For example your location, how did you learn about the course, etc">
 </div>
 
+
+<div class="form-group captcha-container">
+                <div class="g-recaptcha" data-sitekey="6Lclv_ApAAAAAAMFI51Pn9lsJ7rnmdR1viTtIxW6"></div>
+</div>
+
+<div class="form-group">
+    <button type="submit">Submit</button>
+</div>
+</form>
+</div>
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+function onSubmit(event) {
+event.preventDefault();
+var captcha = grecaptcha.getResponse();
+if (!captcha) {
+    alert('Please complete the CAPTCHA');
+    return false;
+}
+document.getElementById('registration-form').submit();
+}
+</script>
+
 [//]: # (<div class="form-group captcha-container">)
 
 [//]: # (<div class="g-recaptcha" data-sitekey="YOUR_SITE_KEY"></div>)
 
 [//]: # (</div>)
 
-<div class="form-group">
-<button class="g-recaptcha" 
-        data-sitekey="6Lclv_ApAAAAAAMFI51Pn9lsJ7rnmdR1viTtIxW6" 
-        data-callback='onSubmit' 
-        data-action='submit'>Submit</button>
 
-[//]: # (<input type="submit" value="Submit">)
-</div>
-</form>
-</div>
+[//]: # ()
+[//]: # ()
+[//]: # (<div class="form-group">)
 
- <script src="https://www.google.com/recaptcha/api.js"></script>
- <script>
-   function onSubmit(token) {
-     document.getElementById("registration-form").submit();
-   }
- </script>
+[//]: # (<button class="g-recaptcha" )
+
+[//]: # (        data-sitekey="6Lclv_ApAAAAAAMFI51Pn9lsJ7rnmdR1viTtIxW6" )
+
+[//]: # (        data-callback='onSubmit' )
+
+[//]: # (        data-action='submit'>Submit</button>)
+
+[//]: # ()
+[//]: # ([//]: # &#40;<input type="submit" value="Submit">&#41;)
+[//]: # (</div>)
+
+[//]: # (</form>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # ( <script src="https://www.google.com/recaptcha/api.js"></script>)
+
+[//]: # ( <script>)
+
+[//]: # (   function onSubmit&#40;token&#41; {)
+
+[//]: # (     document.getElementById&#40;"registration-form"&#41;.submit&#40;&#41;;)
+
+[//]: # (   })
+
+[//]: # ( </script>)
 
 [//]: # (<script>)
 
