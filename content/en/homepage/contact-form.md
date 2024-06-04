@@ -1,11 +1,13 @@
 ---
-title: "Sign Up For The Free Course"
+title: "Sign Up For The Free LIVE Course"
 weight: 99
 header_menu: true
 header_menu_title: "Sign Up"
 navigation_menu_title: "Sign Up"
 ---
 - This course is suitable for anyone, from beginners to experienced meditators!
+
+- Starting on **Monday, July 22nd, 2024, 6PM CET** (see [Syllabus](#course-syllabus) for all other dates)
 
 - All **classes will be approximately one hour long**, 
 but may run a little longer depending on the amount of Q&A 
