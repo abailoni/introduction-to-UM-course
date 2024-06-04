@@ -53,7 +53,7 @@ so you'll be able to re-watch each session any time you like
 <label for="captcha">Additional details (optional):</label>
 
 [//]: # (Add Multiple lines in the next extra details field, not just higher)
-<input type="text" id="extra_details" name="extra_details" placeholder="For example your location, how did you learn about the course, etc">
+<input type="text" id="extra_details" name="extra_details" placeholder="Your location, how did you learn about the course, etc">
 </div>
 
 <div class="form-group">
