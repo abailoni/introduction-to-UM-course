@@ -93,7 +93,7 @@ ol, ul {
 	box-sizing: border-box;
 	font-size: 16px;
 }
-.form-group input[type="submit"] {
+.form-group button {
 	width: 100%;
 	padding: 10px;
 	background-color: #4CAF50;

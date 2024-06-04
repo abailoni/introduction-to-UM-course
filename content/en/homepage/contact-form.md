@@ -20,7 +20,7 @@ so you'll be able to re-watch each session any time you like
 
 <div class="form-container">
 <h2>Register Your Interest</h2>
-<form action="https://formspree.io/f/YOUR_FORMSPREE_ENDPOINT" method="post" id="registration-form">
+<form action="https://formspree.io/f/mqkrvygz" method="POST" id="registration-form">
 <div class="form-group">
 <label for="name">Your Name:</label>
 <input type="text" id="name" name="name" required>
@@ -41,26 +41,47 @@ so you'll be able to re-watch each session any time you like
 <input type="text" id="extra_details" name="extra_details" placeholder="For example your location, how did you learn about the course, etc">
 </div>
 
-<div class="form-group captcha-container">
-<div class="g-recaptcha" data-sitekey="YOUR_SITE_KEY"></div>
-</div>
+[//]: # (<div class="form-group captcha-container">)
+
+[//]: # (<div class="g-recaptcha" data-sitekey="YOUR_SITE_KEY"></div>)
+
+[//]: # (</div>)
 
 <div class="form-group">
-<input type="submit" value="Submit">
+<button class="g-recaptcha" 
+        data-sitekey="6Lclv_ApAAAAAAMFI51Pn9lsJ7rnmdR1viTtIxW6" 
+        data-callback='onSubmit' 
+        data-action='submit'>Submit</button>
+
+[//]: # (<input type="submit" value="Submit">)
 </div>
 </form>
 </div>
 
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-<script>
-    document.querySelector('#registration-form').addEventListener('submit', function (e) {
-        var captcha = document.getElementById('captcha').value;
-        if (captcha !== '7') {
-            e.preventDefault();
-            alert('CAPTCHA validation failed!');
-        }
-    });
-</script>
+ <script src="https://www.google.com/recaptcha/api.js"></script>
+ <script>
+   function onSubmit(token) {
+     document.getElementById("registration-form").submit();
+   }
+ </script>
+
+[//]: # (<script>)
+
+[//]: # (    document.querySelector&#40;'#registration-form'&#41;.addEventListener&#40;'submit', function &#40;e&#41; {)
+
+[//]: # (        var captcha = document.getElementById&#40;'captcha'&#41;.value;)
+
+[//]: # (        if &#40;captcha !== '7'&#41; {)
+
+[//]: # (            e.preventDefault&#40;&#41;;)
+
+[//]: # (            alert&#40;'CAPTCHA validation failed!'&#41;;)
+
+[//]: # (        })
+
+[//]: # (    }&#41;;)
+
+[//]: # (</script>)
 
 
 
