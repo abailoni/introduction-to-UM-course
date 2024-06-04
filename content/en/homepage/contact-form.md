@@ -20,6 +20,14 @@ so you'll be able to re-watch each session any time you like
 
 <div class="form-container">
 <h2>Register Your Interest</h2>
+
+<script src="https://www.google.com/recaptcha/api.js"></script>
+ <script>
+   function onSubmit(token) {
+     document.getElementById("registration-form").submit();
+   }
+ </script>
+
 <form action="https://formspree.io/f/mqkrvygz" method="POST" id="registration-form">
 <div class="form-group">
 <label for="name">Your Name:</label>
@@ -32,40 +40,28 @@ so you'll be able to re-watch each session any time you like
 </div>
 
 <div class="form-group">
-<label for="location">Are you planning to join all classes?</label>
+<label for="all_classes">Are you planning to join all classes?</label>
 <input type="text" id="all_classes" name="all_classes" placeholder="I plan to attend all classes" required>
 </div>
 
 <div class="form-group">
 <label for="captcha">Additional details (optional):</label>
+
+[//]: # (Add Multiple lines in the next extra details field, not just higher)
 <input type="text" id="extra_details" name="extra_details" placeholder="For example your location, how did you learn about the course, etc">
 </div>
 
-
-<div class="form-group captcha-container">
-                <div class="g-recaptcha" data-sitekey="6Lclv_ApAAAAAAMFI51Pn9lsJ7rnmdR1viTtIxW6"></div>
-</div>
-
 <div class="form-group">
-    <button type="submit">Submit</button>
+<button type="submit" 
+        class="g-recaptcha" 
+        data-sitekey="6Lclv_ApAAAAAAMFI51Pn9lsJ7rnmdR1viTtIxW6" 
+        data-callback='onSubmit' 
+        data-action='submit'>Submit</button>
 </div>
 </form>
 </div>
 
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-<script>
-function onSubmit(event) {
-event.preventDefault();
-var captcha = grecaptcha.getResponse();
-if (!captcha) {
-    alert('Please complete the CAPTCHA');
-    return false;
-}
-document.getElementById('registration-form').submit();
-}
-</script>
-
-[//]: # (<div class="form-group captcha-container">)
+ [//]: # (<div class="form-group captcha-container">)
 
 [//]: # (<div class="g-recaptcha" data-sitekey="YOUR_SITE_KEY"></div>)
 

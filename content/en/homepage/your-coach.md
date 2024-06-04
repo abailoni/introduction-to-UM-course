@@ -8,7 +8,7 @@ navigation_menu_title: "Your Instructor"
 ![Alberto](/images/image_profile_small.jpg)
 {.profile_pic}
 
-Hi, I'm Alberto, your guide for this meditation course. I started practicing mindfulness and meditation in 2019 to manage stress and anxiety. After exploring various traditions, I found the Unified Mindfulness System in 2022, which revolutionized my practice.
+Hi, I'm Alberto, your guide for this meditation course. I started practicing mindfulness and meditation in 2019 to manage stress and anxiety. After exploring various traditions (including Hindu and Tibetan traditions that combined meditation with intense pranayamas), I found the Unified Mindfulness System in 2022, which revolutionized my practice.
 
 With a background in theoretical physics and computer science, I was drawn to the systematic approach of Unified Mindfulness. It doesn't push any specific practice or belief, but offers a comprehensive toolkit to explore different techniques.
 
