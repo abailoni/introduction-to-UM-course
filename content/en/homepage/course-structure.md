@@ -11,7 +11,7 @@ _&copy; Unified Mindfulness LLC & Shinzen Young_
 {.copyright_UM}
 
 
-1) Through a guided tour, you'll explore some Unified Mindfulness techniques to discover the ones that are **most meaningful to you**, so you can apply them whenever you want. 
+1) Through a guided tour, you'll explore some Unified Mindfulness techniques to discover the ones that are **most meaningful to you at this moment**, so you can apply them whenever you want. 
 
 2) Each technique you learn may **help you deepen positive states**, such as joy, or it may help you **better address challenging states**, such as chatter in the mind.
 

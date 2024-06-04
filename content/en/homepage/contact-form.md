@@ -5,7 +5,7 @@ header_menu: true
 header_menu_title: "Sign Up"
 navigation_menu_title: "Sign Up"
 ---
-
+- This course is suitable for anyone, from beginners to experienced meditators!
 
 - All **classes will be approximately one hour long**, 
 but may run a little longer depending on the amount of Q&A 
@@ -16,7 +16,53 @@ so you'll be able to re-watch each session any time you like
 
 - Because this coaching is LIVE, **enrollment will be limited to a maximum number of participants**, so that you will get a chance to get personal feedback.
 
-- When you sign up, **let us know if you won't be able to attend some of the classes**.
+[//]: # (- When you sign up, **let me know if you won't be able to attend some of the classes**.)
+
+<div class="form-container">
+<h2>Register Your Interest</h2>
+<form action="https://formspree.io/f/YOUR_FORMSPREE_ENDPOINT" method="post" id="registration-form">
+<div class="form-group">
+<label for="name">Your Name:</label>
+<input type="text" id="name" name="name" required>
+</div>
+
+<div class="form-group">
+<label for="email">Email:</label>
+<input type="email" id="email" name="email" required>
+</div>
+
+<div class="form-group">
+<label for="location">Are you planning to join all classes?</label>
+<input type="text" id="all_classes" name="all_classes" placeholder="I plan to attend all classes" required>
+</div>
+
+<div class="form-group">
+<label for="captcha">Additional details (optional):</label>
+<input type="text" id="extra_details" name="extra_details" placeholder="For example your location, how did you learn about the course, etc">
+</div>
+
+<div class="form-group captcha-container">
+<div class="g-recaptcha" data-sitekey="YOUR_SITE_KEY"></div>
+</div>
+
+<div class="form-group">
+<input type="submit" value="Submit">
+</div>
+</form>
+</div>
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+    document.querySelector('#registration-form').addEventListener('submit', function (e) {
+        var captcha = document.getElementById('captcha').value;
+        if (captcha !== '7') {
+            e.preventDefault();
+            alert('CAPTCHA validation failed!');
+        }
+    });
+</script>
+
+
 
 [//]: # (![Sign-up]&#40;/images/sign-up.jpg&#41;)
 

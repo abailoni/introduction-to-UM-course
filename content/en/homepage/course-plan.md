@@ -1,8 +1,8 @@
 ---
-title: "Plan for the 8-Week Course"
+title: "Syllabus for the 8-Week Course"
 weight: 4
-header_menu_title: "Course Plan"
-navigation_menu_title: "Course Plan"
+header_menu_title: "Course Syllabus"
+navigation_menu_title: "Course Syllabus"
 header_menu: false
 ---
 

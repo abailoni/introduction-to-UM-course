@@ -1,6 +1,6 @@
 ---
 title: "The Happiness Grid"
-weight: 98
+weight: 97
 header_menu: false
 ---
 
