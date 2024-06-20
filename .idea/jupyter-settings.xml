@@ -19,6 +19,7 @@
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
               <option name="sdkHomePath" value="$USER_HOME$/miniconda3/envs/traincellpose2/bin/python" />
+              <option name="sdkName" value="Python 3.8 (traincellpose2)" />
             </JupyterConnectionParameters>
           </value>
         </entry>
@@ -34,6 +35,7 @@
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
               <option name="sdkHomePath" value="$USER_HOME$/miniconda3/envs/traincellpose2/bin/python" />
+              <option name="sdkName" value="Python 3.8 (traincellpose2)" />
             </JupyterConnectionParameters>
           </value>
         </entry>
@@ -42,6 +44,7 @@
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
               <option name="sdkHomePath" value="$USER_HOME$/miniconda3/envs/traincellpose2/bin/python" />
+              <option name="sdkName" value="Python 3.8 (traincellpose2)" />
             </JupyterConnectionParameters>
           </value>
         </entry>
