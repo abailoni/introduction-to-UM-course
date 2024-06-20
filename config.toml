@@ -3,13 +3,13 @@ baseURL = "https://abailoni.github.io/introduction-to-UM-course"
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "it"
 
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll2"
 
 # The browser tab name
-title = "Introduction to Unified Mindfulness"
+title = "Introduzione alla Mindfulness Unificata"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -43,10 +43,10 @@ block = true # default is false
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Introduction to Unified Mindfulness"
+    title = "Introduzione alla Mindfulness Unificata"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Free 8-Week Mindfulness Course"
+    description = "Corso di Mindfulness Gratuito di 8 Settimane"
 
     # Show a menu of languages available
     language_menu = true
@@ -98,10 +98,10 @@ block = true # default is false
 # Define additіonal languages
 [languages]
   [languages.en]
-    weight = 10
+    weight = 20
     languageName = "English"
     contentDir = "content/en"
   [languages.it]
-    weight = 20
+    weight = 10
     languageName = "Italiano"
     contentDir = "content/it"
