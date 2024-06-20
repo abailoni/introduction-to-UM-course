@@ -21,9 +21,7 @@ header_menu: true
 
 - Le **lezioni dureranno circa un'ora**, ma potrebbero durare un po' di più a seconda della quantità di domande e risposte, poiché queste lezioni sono altamente interattive.
 
-- In caso ci fossero diversi **partecipanti disposti a partecipare di persona a Vigolo Vattaro**, verranno comunicati i dettagli di un'eventuale sede fisica.
-
-- **Le lezioni si terranno su Zoom e saranno registrate**, in modo che tu possa rivedere ogni sessione in qualsiasi momento.
+- **Le lezioni si terranno su Zoom e saranno registrate**, però nel caso ci fossero diversi partecipanti disposti a partecipare **di persona a Vigolo Vattaro**, verranno comunicati i dettagli di un'eventuale sede fisica.
 
 - Poiché questo corso è LIVE, **le iscrizioni saranno limitate a un numero massimo di partecipanti**, in modo che tu possa avere la possibilità di ricevere un feedback personale.
 
