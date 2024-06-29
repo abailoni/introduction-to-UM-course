@@ -3,7 +3,7 @@ title: "Scopri Se Questo Corso Fa Per Te"
 header_menu_title: "Scopri Se Fa Per Te"
 navigation_menu_title: "Scopri Se Fa Per Te"
 weight: 99
-header_menu: false
+header_menu: true
 ---
 ![Meditazione](/images/beginner.png)
 {.float_left}
