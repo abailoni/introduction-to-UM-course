@@ -6,23 +6,26 @@ weight: 1
 header_menu: true
 ---
 
-**A Partire da Lunedì 22 Luglio 2024, Ore 18:00**
+**Adatto a Tutti: dai Principianti ai Meditatori Esperti**
 {.center .orange}
 
 --- 
-**_L'obiettivo di questo corso_** è fornirti strumenti pratici per **trovare nuovi modi di praticare la mindfulness durante tutta la giornata**, non solo una volta, e **ottimizzare sistematicamente le tue pratiche contemplative esistenti**, se ne hai.
+**_L'obiettivo di questo corso_** altamente interattivo è fornirti strumenti pratici per **trovare i tuoi modi preferiti di praticare la mindfulness durante tutta la giornata**, non solo una volta, e **ottimizzare sistematicamente le tue pratiche meditative esistenti**, se ne hai.
 {.center}
 
---- 
+---
 
-- Questo corso è adatto a tutti, dai principianti ai meditatori esperti
+- **A Partire da Lunedì 22 Luglio 2024, dalle 18:00 alle 19:15**. Vedi il [Programma Completo](./programma-corso) per tutti i dettagli e le date (nessuna lezione il 12 agosto!)
 
-- **Una lezione a settimana, il Lunedì, dalle 18:00 alle 19:15** (inizio lunedì 22 luglio 2024, nessuna lezione lunedì 12 agosto!). Vedi il [Programma Completo](./programma-corso) per tutti i dettagli e le date.
-
-- Le **lezioni dureranno circa un'ora**, ma potrebbero durare un po' di più a seconda della quantità di domande e risposte, poiché queste lezioni sono altamente interattive.
-
+![Online-meeting](/images/online-meeting.png)
+{.float_right}
 - **Le lezioni si terranno su Zoom e saranno registrate** così potrai rivederle quando vuoi, però nel caso ci fossero diverse persone interessate a partecipare **di persona a Vigolo Vattaro**, verranno comunicati i dettagli di un'eventuale ulteriore sede fisica.
 
-- Poiché questo corso è LIVE, **le iscrizioni saranno limitate a un numero massimo di partecipanti**, in modo che tu possa avere la possibilità di ricevere un feedback personale.
+- Le **lezioni dureranno circa un'ora**, ma potrebbero durare un po' di più a seconda della quantità di domande e risposte.
+
+![Feedback](/images/feedback.png)
+{.float_right}
+- **Le iscrizioni saranno limitate a un numero massimo di partecipanti**, in modo che, a differenza di altri corsi o apps, tu possa **ricevere feedback personalizzati**.
+
 
 - Il corso verrà guidato da Alberto Bailoni, Coach Certificato di Mindfulness Unificata

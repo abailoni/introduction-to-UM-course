@@ -7,20 +7,26 @@
 	font-size: 0.6em;
 }
 
-figure.floatright {
-	max-width: 30%;
+.float_right {
+	max-width: 15%;
 	/*width: auto\9*0.3; !* ie8 *!*/
 	/*width: auto\9*0.3; !* ie8 *!*/
 	height: auto;
 	float: right;
+	margin-left: 1em;
+	margin-bottom: 1em;
+	margin-top: 0.5em;
 }
 
-figure.floatleft {
-	max-width: 5%;
+.float_left {
+	max-width: 15%;
 	/*width: auto\9*0.3; !* ie8 *!*/
-	width: 10%;
+	/*width: auto\9*0.3; !* ie8 *!*/
 	height: auto;
 	float: left;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	margin-top: 0em;
 }
 
 .profile_pic {
