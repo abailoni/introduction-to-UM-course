@@ -11,21 +11,21 @@ _Lunedì 22 luglio, 18:00-19:15_
 {.orange} 
 
 
-Introduzione alla tecnica "Vedi, Senti, Percepisci". Discuteremo cosa speri di ottenere da questo corso di introduzione alla Consapevolezza Unificata e come utilizzare la tecnica "Vedi, Senti, Percepisci" nella tua vita.
+Introduzione alla tecnica "Immagine, Suono, Sensazione". Discuteremo cosa speri di ottenere da questo corso di introduzione alla Consapevolezza Unificata e come utilizzare la tecnica "Immagine, Suono, Sensazione" nelle tue giornate.
 
 ---
 **Lezione 2 - Come Rilassarsi e Ricaricarsi con la Consapevolezza**  
 _Lunedì 29 luglio, 18:00-19:15_  
 {.orange}
 
-Introduzione alla tecnica "Percepisci il Riposo" e come usarla per gestire lo stress. Il rilassamento è sempre disponibile, ma può essere sottile e difficile da rilevare. Quando impari a scoprire e prestare attenzione in modo abile al rilassamento, lo coltivi, sperimentandolo più frequentemente e più profondamente.
+Introduzione alla tecnica "Sensazioni di Riposo" e come usarla per gestire lo stress. Il rilassamento è sempre disponibile, ma può essere lieve e difficile da rilevare. Quando impari a scoprire e prestare attenzione in modo abile al rilassamento, lo coltivi, sperimentandolo più frequentemente e più profondamente.
 
 ---
 **Lezione 3 - Consapevolezza nella Vita Quotidiana**  
 _Lunedì 5 agosto, 18:00-19:15_
 {.orange}
 
-Impara come utilizzare le tecniche "Vedi, Senti, Percepisci" e "Percepisci il Riposo" nella vita quotidiana. Questo può avere un effetto positivo radicale nel tempo. Ci sono 3 tipi di pratica nella vita: Micro-hit, Pratica di Sfondo e Pratica Formale. Ti mostreremo come e quando usare ciascuna di queste per accelerare la tua pratica di consapevolezza e applicarla a qualsiasi situazione.
+Impara come utilizzare le tecniche "Immagine, Suono, Sensazione" e "Sensazioni di Riposo" nella vita quotidiana. Questo può avere un effetto positivo radicale nel tempo. Ci sono 3 tipi di pratica nella vita: Micro-pratica, Pratica di Sottofondo, e Pratica Formale. Ti mostreremo come e quando usare ciascuna di queste per accelerare la tua pratica di consapevolezza e applicarla a qualsiasi situazione.
 
 ---
 
@@ -34,25 +34,25 @@ Impara come utilizzare le tecniche "Vedi, Senti, Percepisci" e "Percepisci il Ri
 
 ---
 
-**Lezione 4 - Entrare nella Zona & Fluire con il Momento**  
+**Lezione 4 - Fluire con il Momento**  
 _Lunedì 19 agosto, 18:00-19:15_
 {.orange}
 
-Scopri la tecnica "Percepisci il Flusso", come si relaziona alla performance di punta e come puoi accedervi per aumentare il tuo benessere. Inoltre, riceverai un'introduzione a ULTRA - la Biblioteca Universale per l'Allenamento dell'Attenzione, che include ogni approccio significativo alla pratica contemplativa.
+Scopri la tecnica "Percepisci il Flusso", come si relaziona alla performance di punta e come puoi accedervi per aumentare il tuo benessere. Inoltre, riceverai un'introduzione a ULTRA - la Libreria Universale per l'Allenamento dell'Attenzione, che include ogni approccio significativo alla pratica contemplativa.
 
 ---
 **Lezione 5 - È Divertente Essere Spontanei**  
 _Lunedì 26 agosto, 18:00-19:15_
 {.orange}
 
-Quante volte al giorno ti ritrovi con il "pilota automatico" inserito - semplicemente svolgendo le azioni? Bene, questo non deve essere un problema. Puoi usare quei momenti per approfondire le tue abilità. La tecnica "Auto Walk" ti mostrerà come sviluppare la spontaneità.
+Quante volte al giorno ti ritrovi con il "pilota automatico" inserito - semplicemente svolgendo le azioni? Bene, questo non deve essere un problema. Puoi usare quei momenti per approfondire le tue abilità. La tecnica "Auto Cammina" ti mostrerà come sviluppare la spontaneità.
 
 ---
 **Lezione 6 - Sentirsi Bene e la Magia della Musica**  
 _Lunedì 2 settembre, 18:00-19:15_
 {.orange}
 
-In questa sessione divertente, imparerai la tecnica "Sentirsi Bene" e perché imparare a praticare con la musica ti aiuta a migliorare le tue relazioni e il tuo benessere mentre affini le abilità che ti aiutano a portare la pratica nella tua vita quotidiana.
+In questa sessione divertente, imparerai la tecnica "Percepisci la Positività" e perché imparare a praticare con la musica ti aiuta a migliorare le tue relazioni e il tuo benessere mentre affini le abilità che ti aiutano a portare la pratica nella tua vita quotidiana.
 
 ---
 **Lezione 7 - Applicare la Consapevolezza a Opportunità e Ostacoli Interiori**  

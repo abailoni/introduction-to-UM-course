@@ -6,7 +6,7 @@ weight: 1
 header_menu: true
 ---
 
-**Adatto a Tutti: dai Principianti ai Meditatori Esperti**
+**Adatto a Tutti: dai Principianti agli Esperti di Meditazione**
 {.center .orange}
 
 --- 
@@ -25,7 +25,7 @@ header_menu: true
 
 ![Feedback](/images/feedback.png)
 {.float_right}
-- **Le iscrizioni saranno limitate a un numero massimo di partecipanti**, in modo che, a differenza di altri corsi o apps, tu possa **ricevere feedback personalizzati**.
+- **Le iscrizioni saranno limitate a un numero massimo di partecipanti**, in modo che, a differenza di altri corsi o applicazioni, tu possa **ricevere feedback personalizzati**.
 
 
 - Il corso verrà guidato da Alberto Bailoni, Coach Certificato di Mindfulness Unificata
