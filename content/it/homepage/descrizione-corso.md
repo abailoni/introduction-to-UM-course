@@ -15,7 +15,7 @@ header_menu: true
 
 ---
 
-- Il corso si terrà **ogni Lunedì dalle 18:00 alle 19:15, a partire dal 22 Luglio 2024**. Vedi il [Programma Completo](./programma-corso) per tutti i dettagli e le date (nessuna lezione il 12 agosto!)
+- Il corso si terrà **ogni Lunedì dalle 18:00 alle 19:15, a partire dal 22 Luglio 2024**. Vedi il [Programma Completo](#programma-dettagliato-del-corso) per tutti i dettagli e le date (nessuna lezione il 12 agosto!)
 
 ![Online-meeting](/images/online-meeting.png)
 {.float_right}

@@ -14,7 +14,7 @@ header_menu: true
 
 ![Opzioni](/images/choice.png)
 {.float_right}
-1) Attraverso un tour guidato, esplorerai alcune tecniche del Sistema di Mindfulness Unificata per scoprire quelle **più significative per te in questo momento**, così potrai applicarle ogni volta che lo desideri. Scopri più dettagli sul perché abbia senso sviluppare la tua mindfulness a [questo link](./perche-mindfulness)!
+1) Attraverso un tour guidato, esplorerai alcune tecniche del Sistema di Mindfulness Unificata per scoprire quelle **più significative per te in questo momento**, così potrai applicarle ogni volta che lo desideri. Scopri più dettagli sul perché abbia senso sviluppare la tua mindfulness [qui](#perche-mindfulness)!
 
 ![Happy](/images/happy-people.jpg)
 {.float_right}
@@ -32,6 +32,4 @@ header_menu: true
 {.float_right}
 6) **[Il sistema completo della Mindfulness Unificata](https://www.shinzen.org/wp-content/uploads/2016/08/IntroToUltra_ver4.8.pdf) copre tutti gli approcci contemplativi e li "unifica" :-) in un [quadro chiaro](https://wiki.unifiedmindfulness.com/index.php/Universal_Library_for_Training_Attention)** così rigorosamente preciso che istituzioni come la Harvard Medical School, la Carnegie Mellon University e l'Università del Vermont lo utilizzano come base per le loro ricerche sulla meditazione e la sua applicazione nelle neuroscienze, psicologia e scienze cliniche.
 
-7) Vedi il [Programma Completo del Corso](./programma-corso) per tutti i dettagli!
-
-
+7) Vedi il [Programma Completo del Corso](#programma-dettagliato-del-corso) per tutti i dettagli!
