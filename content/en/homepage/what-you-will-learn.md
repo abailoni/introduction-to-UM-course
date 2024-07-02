@@ -12,7 +12,7 @@ header_menu: true
 
 ![Happy](/images/happy-people.jpg)
 {.float_right}
-2) Each technique you learn may **help you deepen positive states**, such as joy, or it may help you **better address challenging states**, such as chatter in the mind.
+2) Each technique you learn may **help you deepen positive states**, such as joy, or it may help you **better address challenging states**, such as chatter in the mind.    
 
 3) And you'll learn techniques that can be **applied in any situation you can possibly think of.**
 

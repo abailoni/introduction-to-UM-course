@@ -10,7 +10,7 @@ weight: 100
 ---
 
 
-![ULTRA-grid](/images/ULTRA-grid.jpg)
+![ULTRA-grid](/images/ULTRA-grid-fixed.jpg)
 _&copy; 2024 Unified Mindfulness LLC_
 {.copyright_UM}
 

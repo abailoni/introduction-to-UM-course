@@ -9,10 +9,12 @@ footer_menu: true
 weight: 100
 ---
 
+[//]: # ()
+[//]: # (![ULTRA-grid]&#40;/images/ULTRA-grid-fixed.jpg&#41;)
 
-![ULTRA-grid](/images/ULTRA-grid.jpg)
-_&copy; 2024 Unified Mindfulness LLC_
-{.copyright_UM}
+[//]: # (_&copy; 2024 Unified Mindfulness LLC_)
+
+[//]: # ({.copyright_UM})
 
 **Lezione 1 - Introduzione alla Consapevolezza Unificata**  
 _Lunedì 22 luglio, 18:00-19:15_

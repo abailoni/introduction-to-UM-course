@@ -10,7 +10,7 @@ navigation_menu_title: "Registrati"
 
 [//]: # (<h2>Registrati o richiedi un'informazione</h2>)
 
-<form action="https://formspree.io/f/mqkrvygz" method="POST" id="registration-form">
+<form action="https://formspree.io/f/mdknoede" method="POST" id="registration-form">
 <div class="form-group">
 <label for="name">Il tuo nome:</label>
 <input type="text" id="name" name="name" required>
@@ -29,7 +29,7 @@ navigation_menu_title: "Registrati"
 <div class="form-group">
 <label for="captcha">Ulteriori dettagli (opzionale):</label>
 
-<input type="text" id="extra_details" name="extra_details">
+<input type="text" id="extra_details" name="extra_details" placeholder="Sono di Vigolo, quindi preferirei partecipare di persona">
 </div>
 
 <div class="form-group">
