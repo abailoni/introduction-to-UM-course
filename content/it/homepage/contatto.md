@@ -5,7 +5,10 @@ header_menu: true
 header_menu_title: "Registrati"
 navigation_menu_title: "Registrati"
 ---
-Il corso attuale è al completo, ma se sei interessato a partecipare a un corso futuro, lascia il tuo nome e la tua email qui sotto. Ti contatteremo non appena sarà disponibile un nuovo corso (probabilmente in autunno).
+**IL CORSO È AL COMPLETO**  
+{.center}
+
+Se saresti stato interessato a partecipare, lascia il tuo nome e la tua email qui sotto. Verrai contattato non appena sarà disponibile un nuovo corso (probabilmente in autunno 2024)
 {.center}
 
 <div class="form-container">
