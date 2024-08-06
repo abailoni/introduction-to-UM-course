@@ -21,7 +21,7 @@ The **_goal of this highly interactive course_** is to provide you with practica
 
 - **The lessons will last about an hour**, but they might go a bit longer depending on the number of questions and answers, as the course is very interactive.
 
-- The starting date of the course taught in English will be communicated soon (register your interest below to stay updated!). See the [Course Syllabus](#course-syllabus) for all details.
+- A course [taught in Italian](../it) will start on July 22nd 2024 (**UPDATE: Fully booked**). The starting date of the course taught in English will be communicated soon (register your interest below to stay updated!).  See the [Course Syllabus](#course-syllabus) for all details.
 
 ![Feedback](/images/feedback.png)
 {.float_right}

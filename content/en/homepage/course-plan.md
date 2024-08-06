@@ -10,9 +10,11 @@ weight: 100
 ---
 
 
-![ULTRA-grid](/images/ULTRA-grid-fixed.jpg)
-_&copy; 2024 Unified Mindfulness LLC_
-{.copyright_UM}
+[//]: # (![ULTRA-grid]&#40;/images/ULTRA-grid-fixed.jpg&#41;)
+
+[//]: # (_&copy; 2024 Unified Mindfulness LLC_)
+
+[//]: # ({.copyright_UM})
 
 **Class 1 - Introduction to Unified Mindfulness**
 {.orange} 

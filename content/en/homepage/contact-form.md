@@ -6,6 +6,8 @@ navigation_menu: false
 header_menu_title: "Register"
 navigation_menu_title: "Register Your Interest"
 ---
+**The course taught in Italian starting on July 22nd 2024 is fully booked**. Register your interest below to stay updated on when a new course taught in English will start.
+
 <div class="form-container">
 <h2>Register Your Interest</h2>
 
