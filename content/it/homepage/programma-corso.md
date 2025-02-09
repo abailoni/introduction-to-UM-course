@@ -16,7 +16,7 @@ weight: 85
 
 [//]: # ({.copyright_UM})
 
-**Lezione 1 - Introduzione alla Consapevolezza Unificata**  
+**Lezione 1 - Introduzione al Sistema di Mindfulness Unificata**  
 _Lunedì 3 marzo o Martedì 4 marzo_
 {.orange} 
 
