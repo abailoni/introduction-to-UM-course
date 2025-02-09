@@ -14,7 +14,7 @@ header_menu: true
 
 ![Opzioni](/images/choice.png)
 {.float_right}
-1) Attraverso un tour guidato, esplorerai alcune tecniche del Sistema di Mindfulness Unificata per scoprire quelle **più significative per te in questo momento**, così potrai applicarle ogni volta che lo desideri. Scopri più dettagli sul perché abbia senso sviluppare la tua mindfulness [qui](#perche-mindfulness)!
+1) Attraverso un tour guidato, esplorerai alcune tecniche del Sistema di Mindfulness Unificata per scoprire quelle **più significative per te in questo momento**, così potrai applicarle ogni volta che lo desideri. Scopri più dettagli sul [perché valga la pena sviluppare la tua mindfulness](#perché-praticare-la-mindfulness)!
 
 ![Happy](/images/happy-people.jpg)
 {.float_right}

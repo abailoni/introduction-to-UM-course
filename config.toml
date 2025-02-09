@@ -9,7 +9,7 @@ defaultContentLanguage = "it"
 theme = "hugo-scroll2"
 
 # The browser tab name
-title = "Introduzione alla Mindfulness Unificata"
+title = "Corso Gratuito di Mindfulness a Trento"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -46,7 +46,7 @@ block = true # default is false
     title = "Introduzione alla Mindfulness Unificata"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Corso di Mindfulness Gratuito di 8 Settimane"
+    description = "Corso di Mindfulness Gratuito di 8 Settimane Online a Trento"
 
     # Show a menu of languages available
     language_menu = true
@@ -57,7 +57,7 @@ block = true # default is false
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Alberto Bailoni 2024"
+    copyright = "© Alberto Bailoni 2025"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
@@ -74,7 +74,7 @@ block = true # default is false
     showFooterLinks = false
 
     [params.meta]
-        keywords = "mindfulness, coaching, course, free, 8-week, introduction, unified mindfulness"
+        keywords = "mindfulness, corso, gratuito, trento, introduzione, meditazione, consapevolezza, 8 settimane"
 
     [[params.contacts]]
         label = "phone"
@@ -97,10 +97,10 @@ block = true # default is false
 
 # Define additіonal languages
 [languages]
-  [languages.en]
-    weight = 20
-    languageName = "English"
-    contentDir = "content/en"
+#  [languages.en]
+#    weight = 20
+#    languageName = "English"
+#    contentDir = "content/en"
   [languages.it]
     weight = 10
     languageName = "Italiano"

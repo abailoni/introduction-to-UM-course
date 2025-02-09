@@ -3,10 +3,7 @@ header_menu: true
 title: "Perché Praticare la Mindfulness?"
 header_menu_title: "Perché Praticare Mindfulness?"
 footer_menu_title: "Perché Praticare Mindfulness?"
-footer_menu: true
-#detailed_page_path: ./perche-mindfulness
-#detailed_page_homepage_content: true
-weight: 101
+weight: 94
 ---
 
 **La mindfulness è spesso paragonata all'esercizio fisico.** Ma questo paragone non cattura il suo pieno potenziale.
@@ -21,7 +18,7 @@ Pensaci: **Ti eserciti in una specifica parte del tuo giorno per rimanere in for
 
 L'obiettivo di questo corso è **aiutarti a praticare la mindfulness in ogni momento della giornata**, non solo una volta.
 
-E **ecco qualcosa che potresti non realizzare**: mentre la mindfulness rafforza la tua attenzione come l'esercizio rafforza i muscoli, essa ottimizza anche ogni situazione nella tua vita. **Ogni momento della tua giornata può essere qualitativamente migliorato attraverso la mindfulness.**
+Ed **ecco qualcosa che potresti non realizzare**: mentre la mindfulness rafforza la tua attenzione come l'esercizio rafforza i muscoli, essa ottimizza anche ogni situazione nella tua vita. **Ogni momento della tua giornata può essere qualitativamente migliorato attraverso la mindfulness.**
 
 ![Meditazione](/images/mindfulness-all-day.jpg)
 

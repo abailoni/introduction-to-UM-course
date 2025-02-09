@@ -18,6 +18,17 @@
 	margin-top: 0.5em;
 }
 
+.profile_image {
+	max-width: 40%;
+	/*width: auto\9*0.3; !* ie8 *!*/
+	/*width: auto\9*0.3; !* ie8 *!*/
+	height: auto;
+	float: left;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	margin-top: 0.5em;
+}
+
 .float_left {
 	max-width: 15%;
 	/*width: auto\9*0.3; !* ie8 *!*/
@@ -118,4 +129,26 @@ ol, ul {
 }
 .captcha-container {
 	text-align: center;
+}
+
+
+.submit-button {
+  display: block;
+	/*make sure that the block is placed in the center:*/
+	  margin: 0 auto;
+  width: 70%;
+  padding: 10px;
+  background-color: #ffffff;
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.submit-button:hover {
+  background-color: #343434;
+	color: #ffffff;
 }

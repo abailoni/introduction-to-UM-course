@@ -9,7 +9,7 @@ header_use_video: false
 header_logo: "/images/course-logo.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Corso di Mindfulness Gratuito di 8 Settimane"
+header_headline: "Corso Mindfulness e Vipassana Gratuito di 8 Lezioni"
 header_subheadline: "Introduzione al Sistema di Mindfulness Unificata"
 
 # Add a 'Go back to top' item to the navigation menu
