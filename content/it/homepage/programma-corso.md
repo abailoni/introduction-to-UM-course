@@ -74,11 +74,11 @@ In questa sessione divertente, imparerai la tecnica "Provare Positività" e perc
 _Lunedì 28 aprile o Martedì 29 aprile_
 {.orange}
 
-Questo è ciò che rende l'approccio potenziante della Consapevolezza Unificata unico rispetto agli altri. Imparerai l'arte di decidere quale tecnica usare e quando, così saprai come sfruttare al meglio ogni situazione, interna o esterna.
+Questo è ciò che rende l'approccio potenziante della Mindfulness Unificata unico rispetto agli altri. Imparerai l'arte di decidere quale tecnica usare e quando, così saprai come sfruttare al meglio ogni situazione, interna o esterna.
 
 ---
-**Lezione 8 - Conclusione: La tua Mappa Stradale della Consapevolezza Unificata**
+**Lezione 8 - Conclusione: La tua Mappa Stradale della Mindfulness Unificata**
 _Lunedì 5 maggio o Martedì 6 maggio_
 {.orange}
 
-Concludi il corso di introduzione alla Consapevolezza Unificata scoprendo i ritmi per praticare la consapevolezza affinché il viaggio che hai iniziato possa durare a lungo termine.
+Concludi il corso di introduzione alla Mindfulness Unificata scoprendo i ritmi per praticare la consapevolezza affinché il viaggio che hai iniziato possa durare a lungo termine.

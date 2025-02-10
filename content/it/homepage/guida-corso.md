@@ -7,8 +7,9 @@ footer_menu: true
 weight: 95
 ---
 
-![Guida-del-corso](/images/image_profile_small.jpg)
-{.profile_image}
+[//]: # (![Guida-del-corso]&#40;/images/image_profile_small.jpg&#41;)
+
+[//]: # ({.profile_image})
 Il corso sarà guidato da Alberto Bailoni, che negli anni ha esplorato diverse tradizioni di meditazione, a partire dai ritiri Vipassana di Goenka, passando per il buddismo Zen e Theravada, fino ad arrivare alle pratiche di meditazione non-duali. Ha inoltre approfondito le tradizioni dello yoga, pranayama tibetano, Qigong e Kriya Yoga.
 
 Tuttavia, la scoperta che ha avuto il maggiore impatto sulla sua pratica è stata l’approfondimento del sistema di Unified Mindfulness creato da Shinzen Young. La chiarezza, la precisione e l'efficacia del metodo hanno portato ad un cambio di valori e ad una trasformazione profonda nella gestione dell’ansia, dello stress, delle emozioni e una maggiore soddisfazione nella vita quotidiana. 
