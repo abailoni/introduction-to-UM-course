@@ -10,6 +10,6 @@ I corsi di Marzo 2025 sono pieni. Se vuoi essere informat* sui corsi futuri, cli
 
 
 <div class="form-group">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdCjt0nciIRSCXHpy4YdsFR3Tb3yHw59XfnJmKHfObn59nDbA/viewform?usp=dialog" class="submit-button">Clicca qui per essere informato su corsi futuri</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdCjt0nciIRSCXHpy4YdsFR3Tb3yHw59XfnJmKHfObn59nDbA/viewform?usp=dialog" class="submit-button">Clicca qui per essere informat* su corsi futuri</a>
   </div>
 
